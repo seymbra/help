@@ -1,10 +1,5 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Engineer: B A Seymour
-// 
-// Create Date: 11/18/2019 04:30:43 PM
-// Module Name: aspect_ratio
-// Project Name:  3D Tetris
 // Description:  Approximate aspect ratios with fixed point decimals
 //                      Accuracy is 8bit integer with 12bit decimal
 //                      Hard coded aspect ratios to minimize calculations
